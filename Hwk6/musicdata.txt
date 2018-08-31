@@ -1,0 +1,4 @@
+[album1] [band1] 10
+[album2] [band2] 20
+[album3] [band3] 40
+[Baby] [Justin Bieber] 80
